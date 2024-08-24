@@ -60,14 +60,14 @@ main {
 
 .weather-app-details {
   font-size: 16px;
-  color: rgba(39, 33, 66, 0.4);
+  color: #2785b5;
   line-height: 24px;
   font-weight: 500;
   /*color: #99005a;*/
 }
 
 .weather-app-details strong {
-  color: #f65282;
+  color: #a0cbe4;
 }
 
 .weather-app-temperature-container {
